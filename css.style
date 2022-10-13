@@ -1,0 +1,21 @@
+body {
+  background-color: orange;
+}
+h1{
+  color:blue
+}
+h2{
+  color:red
+}
+h3{
+  color:white
+}
+h4{
+  color:purple
+}
+h5{
+  color:yellow
+}
+h6{
+  color:green
+}
